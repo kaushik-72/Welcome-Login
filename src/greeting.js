@@ -1,0 +1,5 @@
+const greeting = [
+    {
+        greet : "Welcome!"
+    }
+]
